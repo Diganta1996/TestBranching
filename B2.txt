@@ -1,0 +1,2 @@
+B2 branch commit 1
+B2 branch commit 2
