@@ -1,1 +1,1 @@
-use of git log --amend command
+use of git log -amend command
